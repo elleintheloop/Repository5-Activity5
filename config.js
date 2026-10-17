@@ -1,2 +1,3 @@
-const environment = "development";
-const apiUrl = "http://localhost:3000";
+const environment = "production";
+const apiUrl = "https://api.technova.example";
+const paymentGatewayEnabled = true;
